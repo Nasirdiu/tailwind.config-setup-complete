@@ -5,7 +5,7 @@
 Step 1
 
 ```bash
- git clone https://github.com/mir-hussain/react-tailwind-setup.git
+ git clone https://github.com/Nasirdiu/tailwind.config-setup-complete.git
 ```
 
 Step 2
